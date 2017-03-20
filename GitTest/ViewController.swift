@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    // a counter to track number of button presses
     var count = 0
 
     @IBOutlet weak var labelText: UILabel!
